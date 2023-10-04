@@ -1,0 +1,49 @@
+{
+  "produtos": [
+    {            
+      "id":1,
+      "name":"veste branca",
+      "group":"roupa",
+      "supplier":"feirão_das¨_malhas",
+      "dateOfAcquisition":"01/01/2023",
+      "units":10,
+      "img":"/sales-control/img/p1.png"
+    },
+    {            
+      "id":2,
+      "name":"veste_colorida",
+      "group":"roupa",
+      "supplier":"feirão_das_malhas",
+      "dateOfAcquisition":"01/01/2023",
+      "units":10,
+      "img":"/sales-control/img/p2.png"
+    },
+    {            
+      "id":3,
+      "name":"veste_vermelha",
+      "group":"roupa",
+      "supplier":"feirão_das_malhas",
+      "dateOfAcquisition":"01/01/2023",
+      "units":10,
+      "img":"/sales-control/img/p3.png"
+    },
+    {
+      "id":4,
+      "name":"veste_preta",
+      "group":"roupa",
+      "supplier":"feirão_das_malhas",
+      "dateOfAcquisition":"01/01/2019",
+      "units":100,
+      "img":"/sales-control/img/p4.png"
+    },
+    {
+      "id":5,
+      "name":"veste_cinza",
+      "group":"roupa",
+      "supplier":"feirão_das_malhas",
+      "dateOfAcquisition":"01/01/2019",
+      "units":15,
+      "img":"/sales-control/img/p5.png"
+    }
+  ]
+}

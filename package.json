@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "g": "^2.0.1",
+    "json-server": "^0.17.3"
+  },
+  "name": "sales-control",
+  "version": "1.0.0",
+  "description": "app para gerenciamento de produtos, vendas, fornecedores e clientes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch data.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "igor w a silva",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
